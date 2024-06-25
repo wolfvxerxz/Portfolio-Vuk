@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Front-end Developer",
+    "organisation": "Paprikart",
+    "startDate": "Nov, 2021 ",
+    "endDate": "Jun, 2023",
+    "experiences": [" Assisted in building beautiful user interfaces", "Optimization of outdated code"],
+    "imageSrc": "history/paprika.png"
+  },
+  {
+    "role": "Email Developer",
+    "organisation": "EmailBeaver",
+    "startDate": "Jun, 2019",
+    "endDate": "Jun, 2021",
+    "experiences": [
+      "Managed and created HTML templates ",
+      "Asana coordinated with the project ",
+      "Strong working knowledge of Adobe "
+    ],
+    "imageSrc": "history/emailBeaver.svg"
+  }
+]
